@@ -1,0 +1,8 @@
+[package]
+
+name = "event_loop"
+version = "0.0.1"
+authors = ["Danny Angelo Carminati Grein <fungos@gmail.com>"]
+
+[dependencies]
+clock_ticks = "*"
